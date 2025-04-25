@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   title: {
-    fontWeight: '300', // 'light' is not a valid React Native fontWeight
+    fontWeight: '300',
     color: '#fff',
     fontSize: 30,
   },
@@ -86,6 +86,6 @@ const styles = StyleSheet.create({
   deletebtnText: {
     color: '#FF8303',
     fontSize: 20,
-    fontWeight: '300', // changed from 'light'
+    fontWeight: '300',
   },
 });
